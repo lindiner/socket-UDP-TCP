@@ -6,7 +6,7 @@
    
 ### 2. Execução do Projeto:
 
-2.1 Para executar os testes do UDP:
+#### 2.1 Para executar os testes do UDP:
 
 2.1.1 - Abra o terminal no diretório do projeto clonado. Em seguida execute: `cd udp`
 
@@ -16,7 +16,7 @@
 
 Pronto! No terminal do Servidor será visível o resultado da conexão. Rode novamente `node udp_client.js` e verá as incrementações dos resultados em cima do valor retornado.
 
-2.2 Para executar os testes do TCP:
+#### 2.2 Para executar os testes do TCP:
 
 2.2.1 - Abra o terminal no diretório do projeto clonado. Em seguida execute: `cd tcp`
 
